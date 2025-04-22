@@ -1,2 +1,2 @@
 # GIT_GITHUB_REPO
-This is for learning
+This is for learning process
